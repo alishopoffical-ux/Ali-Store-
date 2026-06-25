@@ -1,0 +1,6 @@
+{
+  "name": "Ali Store",
+  "description": "An AI Tools Store where users can browse, review, and purchase AI products. Includes an admin dashboard for store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
